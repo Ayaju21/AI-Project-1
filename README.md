@@ -30,7 +30,3 @@ $$Fitness = \sum_{i=1}^{32} (Individual[i] == Target[i])$$
 * **Crossover:** Combining two parents to produce offspring (Single-point or Multi-point).
 * **Mutation:** Randomly flipping bits to maintain genetic diversity and prevent premature convergence.
 
-
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/YourUsername/GA-Password-Cracker.git](https://github.com/YourUsername/GA-Password-Cracker.git)
